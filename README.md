@@ -4,7 +4,7 @@
 - 📖 Software Engineering Student
 - 🎓 Studying at the Sri Lanka Institute of Information Technology, Malabe <br>
 - 💼 Aspiring Software Engineer
-- 🌱 I’m currently learning Python, Javascript and Integration Testing<br>
+- 🌱 I’m currently learning Python, Javascript, Angular and C#<br>
 
 
 # 💻 Tech Stack:
