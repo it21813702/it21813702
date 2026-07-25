@@ -32,6 +32,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+**GitHub Stats**
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=it21813702&hide_border=true&background=0D1117&border=0D1117&stroke=FF6FB0&ring=FF6FB0&fire=FF6FB0&currStreakNum=FFFFFF&sidebarTitle=FF6FB0&currStreakLabel=FF6FB0&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C77DFF" />
+
+</div>
+
+---
 
 **Featured Projects**
 
@@ -60,11 +68,3 @@ Contributor — polyglot microservice education platform (Kubernetes + frontend)
 </td>
 </tr>
 </table>
-
----
-**GitHub Stats**
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=it21813702&hide_border=true&background=0D1117&border=0D1117&stroke=FF6FB0&ring=FF6FB0&fire=FF6FB0&currStreakNum=FFFFFF&sidebarTitle=FF6FB0&currStreakLabel=FF6FB0&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C77DFF" />
-
-</div>
