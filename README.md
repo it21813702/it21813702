@@ -1,22 +1,70 @@
-# 👋🏼 Hi, I'm Vinuki! ✨
+<div align="center">
 
-## About Me
-- 📖 Software Engineering Student
-- 🎓 Studying at the Sri Lanka Institute of Information Technology, Malabe <br>
-- 💼 Aspiring Software Engineer
-- 🌱 I’m currently learning Python, Javascript, Angular and C#<br>
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/aaba10f2-8456-4aa9-a7a1-f729d93f7061)
 
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1200&color=FF6FB0&center=true&vCenter=true&width=700&lines=FRONT-END+SOFTWARE+ENGINEER;ANGULAR+%7C+TYPESCRIPT+%7C+REACT;LEVELING+UP+IN+VUE.JS" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=it21813702&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=it21813702&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=it21813702&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=it21813702&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**About**
+
+- Front-End Software Engineer, 2 years commercial experience — Angular, TypeScript, live production dashboards & POS UI
+- BSc (Hons) Software Engineering, SLIIT *(graduating September 2026)*
+- Building daily with AI-assisted workflows (Claude, Copilot) — used to move faster, not to skip understanding
+- Currently deepening Vue.js and frontend testing (Vitest)
+- [LinkedIn](https://linkedin.com/in/vinukiamarasinghe) · vinukiiamare02@gmail.com
+
+---
+
+**Tech Stack**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+**Featured Projects**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Business Analysis Dashboard**
+Real-time retail analytics — revenue trends, stock health, customer insights
+<sub>*link once repo is live*</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**NASA Data Explorer**
+React app consuming NASA's public APIs, deployed on Netlify
+<sub>*link once repo is cleaned up*</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[lms-microservice](https://github.com/nxdun/lms-microservice)**
+Contributor — polyglot microservice education platform (Kubernetes + frontend)
+<sub>29 commits</sub>
+
+</td>
+</tr>
+</table>
+
+---
+**GitHub Stats**
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=it21813702&hide_border=true&background=0D1117&border=0D1117&stroke=FF6FB0&ring=FF6FB0&fire=FF6FB0&currStreakNum=FFFFFF&sidebarTitle=FF6FB0&currStreakLabel=FF6FB0&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C77DFF" />
+
+</div>
